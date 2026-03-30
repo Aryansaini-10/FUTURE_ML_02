@@ -116,7 +116,7 @@ FUTURE_ML_02/
 │
 └── README.md
 ```
-
+![image alt](https://github.com/Aryansaini-10/FUTURE_ML_02/blob/313006e21cc9070169064995f89a3fc88435fc46/Screenshot%202026-03-30%20132551.png)
 ---
 
 ## 💡 Key Learnings
